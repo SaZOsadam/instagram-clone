@@ -33,7 +33,7 @@ function Timeline() {
     {
       user: "oladiran.sarah.1_",
       postImage:"https://th.bing.com/th/id/R.845f3fded0e146b66fc66fa3d6467083?rik=%2bcd4RskYHZAigw&riu=http%3a%2f%2fdpnow.com%2fimages%2fPhotoFixChallenge%2fDSC00092.JPG&ehk=c06%2bl0ErTk%2byGB4xDJ1kyBrGChLXUj3yIgKZ4csQYt0%3d&risl=1&pid=ImgRaw&r=0",
-      likes: 931,
+      likes: 231,
       timespamp:"30mins",
     },
    ]);

@@ -10,7 +10,7 @@ function Sugesstions() {
       <div className="sugesstion__username">
         <div className="username__left">
           <span className="avatar">
-            <Avatar>S</Avatar>
+            <Avatar>I</Avatar>
           </span>
           <div className="username__info">
           <span className="userName">iam.bosslady_</span>
@@ -24,7 +24,7 @@ function Sugesstions() {
       <div className="sugesstion__username">
         <div className="username__left">
           <span className="avatar">
-            <Avatar>S</Avatar>
+            <Avatar>T</Avatar>
           </span>
           <div className="username__info">
           <span className="userName">this.joruthe_</span>
@@ -38,7 +38,7 @@ function Sugesstions() {
       <div className="sugesstion__username">
         <div className="username__left">
           <span className="avatar">
-            <Avatar>S</Avatar>
+            <Avatar>O</Avatar>
           </span>
           <div className="username__info">
           <span className="userName">oladiran.adetutu_</span>
@@ -52,7 +52,7 @@ function Sugesstions() {
       <div className="sugesstion__username">
         <div className="username__left">
           <span className="avatar">
-            <Avatar>S</Avatar>
+            <Avatar>E</Avatar>
           </span>
           <div className="username__info">
           <span className="userName">elizabeth.oladiran_</span>

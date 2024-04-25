@@ -20,7 +20,7 @@
 .post__headerAuthor > span{
     color: #8e9191;
     font-size: 16px;
-
+    margin-right: 8px;
 }
 .post__img > img {
     width: 100%;
@@ -47,7 +47,6 @@
 
 }
 .postIcon{
-
 }
 .post__iconSave{
 

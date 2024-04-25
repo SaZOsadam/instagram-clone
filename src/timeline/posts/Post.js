@@ -12,7 +12,7 @@ function Post({user, postImage, likes, timespamp }) {
     <div className="post">
         <div className="post__header">
           <div className="post__headerAuthor">
-          <Avatar>{user.charAt(0).toUpperCase()}</Avatar> {user} • <span>{timespamp}</span>
+            <span><Avatar>{user.charAt(0).toUpperCase()}</Avatar></span>{user} • <span>{timespamp}</span>
           </div>
            <MoreHorizIcon />
         </div>
